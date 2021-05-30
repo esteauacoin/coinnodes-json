@@ -1,0 +1,34 @@
+{
+  "nodes": [
+     {
+      "name": "ANode Azure 1",
+      "url": "52.152.162.198",
+      "port": 12898,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "BNode Azure 2",
+      "url": "40.117.60.80",
+      "port": 12898,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "PV",
+      "url": "188.26.166.93",
+      "port": 12898,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "PVA",
+      "url": "esteauacoin.go.ro",
+      "port": 12898,
+      "ssl": false,
+      "cache": false
+    },
+    
+    }
+  ]
+}
